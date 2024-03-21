@@ -1,0 +1,1 @@
+const arr=["apples","manoges"]
